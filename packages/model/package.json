@@ -16,7 +16,7 @@
     "crypto-js": "^4.1.1",
     "lodash-es": "^4.17.21",
     "mobx": "^6.9.0",
-    "paintvec": "workspace:*",
+    "paintvec": "0.7.1",
     "path-browserify": "^1.0.1",
     "prettier": "^2.8.8",
     "yjs": "^13.6.0",

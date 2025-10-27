@@ -1,0 +1,774 @@
+2025-10-27T11:18:32.963071Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon"), AnchoredSystemPathBuf(".turbo\\cookies"), AnchoredSystemPathBuf(".turbo\\cookies\\.turbo-cookie"), AnchoredSystemPathBuf(".turbo\\cookies\\1.cookie"), AnchoredSystemPathBuf(".turbo")}
+2025-10-27T11:18:32.963118Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:18:32.989750Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2025-10-27T11:18:33.365995Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\0281d942a6c0894f-turbo.log.2025-10-27"), AnchoredSystemPathBuf("node_modules")}
+2025-10-27T11:18:33.366012Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:18:33.457943Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\.turbo"), AnchoredSystemPathBuf("packages\\foundation"), AnchoredSystemPathBuf(".turbo\\cookies\\2.cookie"), AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T11:18:33.457965Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:21:04.859337Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\3.cookie")}
+2025-10-27T11:21:04.859351Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:21:05.163622Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T11:21:05.163636Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:21:05.270231Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\4.cookie")}
+2025-10-27T11:21:05.270245Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:21:05.860859Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T11:21:05.860876Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:22:50.465516Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\0281d942a6c0894f-turbo.log.2025-10-27")}
+2025-10-27T11:22:50.465546Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:23:51.465551Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("_tmp_70328_4deba5dad2edb582162d5acacaed213a")}
+2025-10-27T11:23:51.465574Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:23:52.956878Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-10-27T11:23:52.956889Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:23:53.058087Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-10-27T11:23:53.058106Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:23:53.157842Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-10-27T11:23:53.157862Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:23:53.270272Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-10-27T11:23:53.270291Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:23:53.357676Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-10-27T11:23:53.357699Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:23:53.467298Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-10-27T11:23:53.467324Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:23:53.656880Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-10-27T11:23:53.656893Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:23:53.759556Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-10-27T11:23:53.759569Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:23:53.866092Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-10-27T11:23:53.866105Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:23:54.760079Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-10-27T11:23:54.760099Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:23:55.764839Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-10-27T11:23:55.764856Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:24:01.163035Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\5.cookie")}
+2025-10-27T11:24:01.163048Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:24:01.470005Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T11:24:01.470026Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:24:01.561922Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\6.cookie")}
+2025-10-27T11:24:01.561943Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:24:01.762485Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T11:24:01.762503Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:25:17.861866Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:25:17.861881Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:25:23.364354Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:25:23.364366Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:40:36.668100Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:40:36.668124Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:41:57.271561Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:41:57.271576Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:42:55.262609Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:42:55.262622Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:43:00.262837Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:43:00.262857Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:43:02.556094Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:43:02.556107Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:43:05.062008Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:43:05.062018Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:43:09.367144Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:43:09.367154Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:43:12.364153Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:43:12.364167Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:43:13.468856Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:43:13.468868Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:43:21.469796Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:43:21.469811Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:43:27.266590Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:43:27.266602Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:43:36.267345Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:43:36.267380Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:43:38.465534Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:43:38.465545Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:43:39.660605Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:43:39.660616Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:48:45.660780Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:48:45.660799Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:48:56.765342Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:48:56.765354Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:49:02.356893Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:49:02.356905Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:49:06.461614Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:49:06.461626Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:49:06.559103Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:49:06.559113Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:49:06.559151Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T11:49:08.365318Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T11:49:08.365329Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:49:29.064058Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\package.json")}
+2025-10-27T11:49:29.064071Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:49:31.266364Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\package.json")}
+2025-10-27T11:49:31.266380Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:49:33.664332Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\package.json")}
+2025-10-27T11:49:33.664345Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:52:08.961446Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\package.json")}
+2025-10-27T11:52:08.961460Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:52:10.864278Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\package.json")}
+2025-10-27T11:52:10.864292Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:52:21.659481Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_78616_ecb56185d5f769aa1974a16f5cfbaae6"), AnchoredSystemPathBuf("")}
+2025-10-27T11:52:21.659492Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:52:42.570172Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\package.json")}
+2025-10-27T11:52:42.570184Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:52:46.171116Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\package.json")}
+2025-10-27T11:52:46.171129Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:52:49.459655Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("_tmp_49192_c23b6a7fd77fb36f718681d5916f6d67"), AnchoredSystemPathBuf("")}
+2025-10-27T11:52:49.459666Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:52:58.260560Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("pnpm-lock.yaml"), AnchoredSystemPathBuf("pnpm-lock.yaml.4118850269"), AnchoredSystemPathBuf("")}
+2025-10-27T11:52:58.260573Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:53:00.768702Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-10-27T11:53:00.768723Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:53:02.058396Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2025-10-27T11:53:02.058414Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:54:10.161780Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T11:54:10.161796Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:54:17.757930Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T11:54:17.757944Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:54:22.857743Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T11:54:22.857757Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:54:28.069694Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T11:54:28.069705Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T11:55:30.364039Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("lib")}
+2025-10-27T11:55:30.364053Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:55:44.467669Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx"), AnchoredSystemPathBuf("lib")}
+2025-10-27T11:55:44.467683Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:55:48.262637Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T11:55:48.262649Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:56:03.963751Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T11:56:03.963769Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:56:07.264293Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T11:56:07.264305Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:56:08.369157Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T11:56:08.369169Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:56:14.165725Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T11:56:14.165735Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:56:16.160836Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T11:56:16.160847Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:56:31.757830Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T11:56:31.757851Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:57:32.968720Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T11:57:32.968742Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T11:57:40.257839Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T11:57:40.257850Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T12:01:20.970491Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T12:01:20.970505Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T12:01:27.762433Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T12:01:27.762446Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T12:01:32.167242Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T12:01:32.167257Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T12:01:36.166086Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T12:01:36.166096Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T12:01:37.760162Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T12:01:37.760174Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T12:01:39.561579Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T12:01:39.561592Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T12:05:57.865789Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T12:05:57.865802Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T12:06:01.661337Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T12:06:01.661347Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T12:07:25.257655Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:07:25.257670Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:07:26.656816Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:07:26.656833Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:07:31.057743Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:07:31.057759Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:07:33.461081Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:07:33.461094Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:07:34.763082Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:07:34.763093Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:07:36.861807Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:07:36.861820Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:07:42.858765Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:07:42.858775Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:10:24.961246Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:10:24.961258Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:10:27.570951Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:10:27.570966Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:10:44.561822Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:10:44.561834Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:10:48.359799Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:10:48.359810Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:11:03.069988Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:11:03.070001Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:11:09.558167Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:11:09.558176Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:12:11.965418Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:12:11.965430Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:12:20.965364Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:12:20.965375Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:32:02.762941Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:32:02.762963Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:32:49.161330Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:32:49.161347Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:32:52.959771Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:32:52.959783Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:32:55.063254Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:32:55.063265Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:46:09.471355Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:46:09.471375Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:46:18.664923Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:46:18.664935Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:46:27.461150Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:46:27.461162Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:46:36.059775Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:46:36.059786Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:46:39.756778Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:46:39.756790Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:46:43.556326Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:46:43.556341Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:46:56.558669Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:46:56.558685Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:47:03.065517Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:47:03.065529Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:47:07.557861Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:47:07.557873Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:47:18.265924Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:47:18.265936Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:47:21.366507Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:47:21.366527Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:47:25.562566Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:47:25.562583Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:47:28.966027Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:47:28.966043Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:47:35.864028Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:47:35.864038Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:47:37.265163Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:47:37.265179Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:47:42.664309Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:47:42.664324Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:49:21.056420Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:49:21.056431Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:49:44.869982Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib\\menu-button.tsx")}
+2025-10-27T12:49:44.870001Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T12:49:45.057673Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("lib")}
+2025-10-27T12:49:45.057685Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T12:53:42.957360Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:53:42.957385Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:00.958252Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:00.958264Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:05.457642Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:05.457655Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:05.498363Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T12:54:09.668100Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:09.668123Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:09.673764Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T12:54:12.267089Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:12.267105Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:16.259621Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:16.259634Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:18.271075Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:18.271087Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:19.561456Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:19.561476Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:21.665885Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:21.665899Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:24.165268Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:24.165281Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:25.871507Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:25.871523Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:36.460940Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:36.460959Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:38.861784Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:38.861805Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:42.257963Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:42.257976Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:43.867382Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:43.867395Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:46.161898Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:46.161911Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:54.867298Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:54.867313Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:57.757206Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:57.757220Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:54:59.867197Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:54:59.867209Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:55:17.460098Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:55:17.460110Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:55:20.359454Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:55:20.359471Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:55:22.760378Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:55:22.760396Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:56:15.857377Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:56:15.857389Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:56:15.962845Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:56:15.962856Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:56:15.962884Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T12:56:25.161216Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:56:25.161229Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:56:26.959835Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:56:26.959852Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:57:00.261777Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:57:00.261798Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:57:15.962447Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:57:15.962465Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:57:16.055482Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T12:57:16.958479Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:57:16.958497Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:57:17.065147Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T12:57:28.069412Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:57:28.069426Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:57:35.465332Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:57:35.465355Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:57:36.458666Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:57:36.458678Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:58:59.759817Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.stories.tsx")}
+2025-10-27T12:58:59.759835Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:59:17.661847Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:59:17.661866Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:59:29.059554Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:59:29.059678Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:59:33.070548Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:59:33.070561Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:59:36.867366Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:59:36.867390Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:59:38.156594Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:59:38.156607Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:59:40.557293Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:59:40.557310Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T12:59:40.646386Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T12:59:42.065733Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T12:59:42.065752Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:05:52.765295Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:05:52.765312Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:05:57.565475Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:05:57.565491Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:05:59.561033Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:05:59.561049Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:06:01.956615Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:06:01.956628Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:06:04.257968Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:06:04.257982Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:06:27.565487Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:06:27.565500Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:06:30.858523Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:06:30.858546Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:06:44.563422Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:06:44.563436Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:06:45.961692Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:06:45.961714Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:09:12.865490Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:09:12.865509Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:09:18.865487Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:09:18.865509Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:19:24.466614Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:19:24.466632Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:19:28.970742Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:19:28.970754Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:19:39.063527Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:19:39.063542Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T13:19:43.658189Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T13:19:43.658205Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T15:13:07.619266Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T15:13:07.619313Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T15:13:48.815502Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T15:13:48.815514Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T15:14:45.424775Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T15:14:45.424789Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:42:24.375397Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\1.cookie")}
+2025-10-27T16:42:24.375720Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T16:42:24.681347Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T16:42:24.681361Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T16:42:24.787862Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\2.cookie")}
+2025-10-27T16:42:24.787876Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T16:42:25.280410Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T16:42:25.280423Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T16:44:14.382898Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:44:14.382952Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:44:19.579103Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:44:19.579115Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:44:27.882852Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:44:27.882865Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:44:37.079190Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:44:37.079203Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:44:44.579172Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:44:44.579185Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:44:51.783879Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:44:51.783891Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:47:33.584856Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:47:33.584877Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:49:29.877860Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:49:29.877879Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:49:38.582360Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:49:38.582375Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:51:32.978950Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:51:32.978964Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:51:54.782046Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:51:54.782062Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:52:03.587455Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:52:03.587470Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:52:30.982253Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:52:30.982273Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:52:34.588451Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:52:34.588467Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:52:40.784573Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:52:40.784592Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:53:17.781010Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:53:17.781021Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:53:17.910795Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:53:17.910807Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:53:17.910837Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T16:53:34.480607Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:53:34.480622Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:55:04.488709Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:55:04.488726Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:56:15.185340Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:56:15.185362Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:56:17.174290Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:56:17.174302Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:56:17.240882Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T16:58:16.187248Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:58:16.187270Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:58:25.186878Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:58:25.186899Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:58:30.488811Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:58:30.488822Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:58:32.182802Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:58:32.182816Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:58:34.574044Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:58:34.574056Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:58:38.082752Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:58:38.082765Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:58:42.778152Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:58:42.778165Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:58:45.879754Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:58:45.879765Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:58:47.276340Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:58:47.276353Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T16:58:49.977130Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T16:58:49.977144Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:01:07.785082Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:01:07.785096Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:01:18.075513Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:01:18.075528Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:01:28.488634Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:01:28.488646Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:01:34.175562Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:01:34.175577Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:01:43.178803Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:01:43.178816Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:02:01.078037Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:02:01.078050Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:02:16.084986Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:02:16.085000Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:02:22.976046Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:02:22.976057Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:02:35.786635Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:02:35.786649Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:02:36.782905Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:02:36.782917Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:02:36.888762Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:02:36.888775Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:02:36.888824Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T17:02:54.180376Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:02:54.180387Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:02:56.689178Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:02:56.689192Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:02:56.699024Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T17:03:08.283641Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:03:08.283655Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:03:14.982433Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:03:14.982453Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:03:38.579222Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:03:38.579234Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:04:08.082807Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:04:08.082820Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:04:40.885119Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\3.cookie")}
+2025-10-27T17:04:40.885138Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:04:41.179354Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:04:41.179376Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:04:41.288374Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\4.cookie")}
+2025-10-27T17:04:41.288393Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:04:41.888609Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:04:41.888628Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:05:02.876892Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:05:02.876907Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:05:08.486969Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:05:08.486982Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:05:29.789170Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\5.cookie")}
+2025-10-27T17:05:29.789184Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:05:29.988318Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies"), AnchoredSystemPathBuf(".turbo\\cookies\\6.cookie")}
+2025-10-27T17:05:29.988331Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:05:30.786240Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:05:30.786254Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:06:00.783923Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:06:00.783944Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:06:04.383048Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:06:04.383062Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:06:08.380777Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:06:08.380791Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:06:11.379300Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:06:11.379321Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:07:23.783010Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:07:23.783020Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:07:41.589204Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:07:41.589224Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:07:57.476826Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:07:57.476840Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:08:09.279398Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:08:09.279418Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:08:12.076870Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:08:12.076886Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:08:22.279976Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\7.cookie")}
+2025-10-27T17:08:22.279994Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:08:22.478050Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:08:22.478063Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:08:22.576480Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\8.cookie")}
+2025-10-27T17:08:22.576491Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:08:23.279338Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:08:23.279355Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:09:27.580791Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:09:27.580811Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:09:55.989186Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:09:55.989199Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:10:04.778552Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:10:04.778565Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:10:07.874865Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:10:07.874878Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:10:25.889068Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:10:25.889079Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:10:31.287696Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:10:31.287714Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:10:55.384489Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:10:55.384502Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:10:58.486906Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:10:58.486921Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:11:01.382258Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:11:01.382270Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:11:02.880866Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:11:02.880880Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:11:04.474142Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:11:04.474155Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:11:12.584363Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:11:12.584379Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:11:19.479968Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:11:19.479980Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:11:38.484359Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:11:38.484372Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:11:50.987387Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:11:50.987399Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:11:55.082578Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:11:55.082598Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:12:05.879179Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:12:05.879196Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:12:39.485393Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:12:39.485407Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:12:50.376883Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:12:50.376897Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:12:56.576822Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:12:56.576837Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:13:32.078661Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:13:32.078681Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:14:07.288814Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:14:07.288828Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:14:11.181533Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:14:11.181546Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:14:25.686091Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:14:25.686105Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:14:27.480840Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:14:27.480854Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:14:32.782816Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:14:32.782834Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:14:38.077480Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:14:38.077491Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:15:13.982906Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:15:13.982920Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:15:23.880835Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:15:23.880852Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:15:57.976684Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:15:57.976702Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:16:13.877495Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:16:13.877510Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:16:18.888818Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:16:18.888833Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:16:25.277533Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:16:25.277554Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:16:36.788990Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:16:36.789012Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:16:51.382104Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:16:51.382117Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:16:55.378323Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:16:55.378340Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:17:09.586808Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:17:09.586820Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:17:14.874822Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:17:14.874841Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:17:33.486598Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:17:33.486621Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:17:36.774013Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:17:36.774026Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:17:53.875717Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:17:53.875731Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:18:08.382743Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:18:08.382758Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:18:10.282041Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:18:10.282060Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:18:13.089082Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:18:13.089105Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:18:19.088262Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:18:19.088279Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:18:20.688533Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:18:20.688546Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:18:26.682917Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:18:26.682930Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:18:35.989073Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:18:35.989084Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:18:52.588622Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:18:52.588634Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:18:54.389255Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:18:54.389267Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:18:55.480048Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:18:55.480061Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:18:57.680919Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:18:57.680940Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:19:00.174416Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:19:00.174430Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:19:04.182862Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:19:04.182875Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:19:05.687905Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:19:05.687921Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:20:36.275278Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:20:36.275298Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:20:50.383752Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\9.cookie")}
+2025-10-27T17:20:50.383764Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:20:50.583272Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:20:50.583285Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:20:50.675117Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\10.cookie")}
+2025-10-27T17:20:50.675132Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:20:51.384767Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:20:51.384784Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:21:07.375456Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:21:07.375477Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:21:09.286749Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:21:09.286765Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:21:10.577905Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:21:10.577937Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:21:12.675319Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:21:12.675333Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:22:05.574252Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:22:05.574268Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:23:09.384858Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:23:09.384877Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:23:22.883093Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:23:22.883104Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:26:48.885329Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:26:48.885347Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:26:59.284624Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:26:59.284642Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:27:56.287314Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:27:56.287333Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:28:51.588568Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:28:51.588583Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:31:46.484508Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\11.cookie")}
+2025-10-27T17:31:46.484523Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:31:46.686292Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:31:46.686303Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:31:46.778395Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\12.cookie")}
+2025-10-27T17:31:46.778412Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:31:47.481836Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:31:47.481849Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:32:15.282183Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:32:15.282202Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:32:16.780648Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:32:16.780664Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:32:21.082254Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:32:21.082267Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:32:25.588578Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:32:25.588593Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:32:30.784802Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:32:30.784815Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:32:33.184942Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:32:33.184962Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:32:47.084597Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:32:47.084610Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:32:48.988292Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:32:48.988303Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:33:39.684356Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:33:39.684374Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:33:41.988714Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:33:41.988726Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:33:57.087260Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:33:57.087278Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:34:08.688751Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:34:08.688769Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:34:18.286883Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:34:18.286896Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:34:20.977407Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:34:20.977419Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:34:28.679773Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:34:28.679786Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:34:32.174387Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:34:32.174401Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:36:14.488868Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:36:14.488885Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:37:31.386923Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:37:31.386946Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:38:28.482769Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:38:28.482779Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:40:03.477367Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:40:03.477380Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:40:30.879316Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:40:30.879329Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:40:43.380638Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:40:43.380652Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:40:43.432239Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T17:40:49.675002Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:40:49.675014Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:00.379682Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:00.379696Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:00.523524Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:00.523536Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:00.523568Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T17:41:03.180760Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:03.180781Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:11.280821Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:11.280838Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:13.279155Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:13.279171Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:15.381834Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:15.381847Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:16.380622Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:16.380638Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:19.482970Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:19.482991Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:21.687277Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:21.687290Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:22.981160Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:22.981172Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:31.686696Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:31.686708Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:33.685814Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:33.685832Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:33.789400Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:33.789413Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:33.789456Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T17:41:36.585024Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:36.585037Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:41:36.599123Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-10-27T17:41:38.985535Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages\\foundation\\src\\components\\menu\\Menu.tsx")}
+2025-10-27T17:41:38.985549Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@uimix/foundation"), path: AnchoredSystemPathBuf("packages\\foundation") }}))
+2025-10-27T17:42:07.188916Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\13.cookie")}
+2025-10-27T17:42:07.188934Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:42:07.387952Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:42:07.387966Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:42:07.481853Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\14.cookie")}
+2025-10-27T17:42:07.481869Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:42:08.187320Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:42:08.187336Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:46:26.484942Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2025-10-27T17:46:26.484956Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2025-10-27T17:46:50.085764Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\15.cookie")}
+2025-10-27T17:46:50.085778Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:46:50.375924Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:46:50.375942Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:46:50.483606Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\16.cookie")}
+2025-10-27T17:46:50.483622Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:46:51.177768Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:46:51.177785Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:47:13.974667Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("vite.config.js"), AnchoredSystemPathBuf("")}
+2025-10-27T17:47:13.974679Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:47:16.677794Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("vite.config.js")}
+2025-10-27T17:47:16.677813Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:47:32.976773Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\17.cookie")}
+2025-10-27T17:47:32.976788Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:47:33.177016Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:47:33.177029Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:47:33.284138Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\18.cookie")}
+2025-10-27T17:47:33.284152Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-27T17:47:33.878634Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2025-10-27T17:47:33.878645Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
