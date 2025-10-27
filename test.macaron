@@ -1,0 +1,120 @@
+<style>
+  :root {
+  }
+</style>
+<macaron-component name="my-component">
+  <macaron-variant x="174.996" y="43.992000000000004"></macaron-variant>
+  <template>
+    <div id="div"></div>
+    <div id="div1">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="1em"
+        height="1em"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 24 24"
+        id="svg"
+      >
+        <path
+          fill="currentColor"
+          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5l1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+        ></path></svg
+      ><svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="1em"
+        height="1em"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 24 24"
+        id="svg1"
+      >
+        <path
+          fill="currentColor"
+          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5l1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+        ></path></svg
+      ><svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="1em"
+        height="1em"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 24 24"
+        id="svg2"
+      >
+        <path
+          fill="currentColor"
+          d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-8.29 13.29a.996.996 0 0 1-1.41 0L5.71 12.7a.996.996 0 1 1 1.41-1.41L10 14.17l6.88-6.88a.996.996 0 1 1 1.41 1.41l-7.58 7.59z"
+        ></path></svg
+      ><svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="1em"
+        height="1em"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 24 24"
+        id="svg3"
+      >
+        <path
+          fill="currentColor"
+          d="M12 4c-4.41 0-8 3.59-8 8s3.59 8 8 8s8-3.59 8-8s-3.59-8-8-8zm-2 13l-4-4l1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"
+          opacity=".3"
+        ></path>
+        <path
+          fill="currentColor"
+          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10s10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8s8 3.59 8 8s-3.59 8-8 8zm4.59-12.42L10 14.17l-2.59-2.58L6 13l4 4l8-8z"
+        ></path>
+      </svg>
+    </div>
+    <img src="./packages/docs/guide/images/override-cssvariable.png" id="img" />
+  </template>
+  <style>
+    :host {
+      position: absolute;
+      width: 1070px;
+      height: 433px;
+      display: block;
+    }
+    #div {
+      position: absolute;
+      top: 50.011px;
+      left: 207.011px;
+      background: #cccccc;
+    }
+    #div1 {
+      position: absolute;
+      top: 30.011000000000003px;
+      left: 151.011px;
+      width: 742px;
+      height: 368px;
+      background: #cccccc;
+    }
+    #svg {
+      position: absolute;
+      top: -9.00500000000001px;
+      left: 541.001px;
+      width: 81px;
+      height: 90px;
+    }
+    #svg1 {
+      position: absolute;
+      top: 45.99499999999999px;
+      left: 559.001px;
+      width: 81px;
+      height: 90px;
+    }
+    #svg2 {
+      position: absolute;
+      top: 100.009px;
+      left: 386.002px;
+    }
+    #svg3 {
+      position: absolute;
+      top: 102.009px;
+      left: 716.002px;
+    }
+    #img {
+      position: absolute;
+      top: 193.007px;
+      left: 456.99799999999993px;
+      width: 436px;
+      height: 205px;
+    }
+  </style>
+</macaron-component>
