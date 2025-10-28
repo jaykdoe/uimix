@@ -2,8 +2,7 @@ import React, { useState } from "react";
 import menuIcon from "@iconify-icons/ic/menu";
 import { MenuItemDef } from "../menu/MenuItemDef";
 import { Shortcut } from "../../utils/Shortcut";
-import { useMenuButton } from "@ariakit/react-core/menu/menu-button";
-import { useMenuStore } from "@ariakit/react-core/menu/menu-store";
+import { useMenuButton, useMenuState } from "ariakit";
 import { ToolButton } from "../toolbar/ToolButton";
 import { Menu } from "../menu/Menu";
 import { Icon } from "@iconify/react";
@@ -14,9 +13,9 @@ export default {
 };
 
 export const Basic: React.FC = () => {
-  const state = useMenuStore();
+  const state = useMenuState();
   const menu = useExampleMenu();
-  const menuButtunProps = useMenuButton<"button">({ store: state });
+  const menuButtunProps = useMenuButton<"button">({ state });
   return (
     <>
       <ToolButton {...menuButtunProps}>

@@ -1,0 +1,7 @@
+import{j as p,a}from"./jsx-runtime-862f31f3.js";import{r as c}from"./index-c013ead5.js";import{I as e}from"./Input-04bcbbcb.js";import"./_commonjsHelpers-725317a4.js";import"./iconify-814ba8dd.js";import"./Tooltip-3ebaf484.js";import"./index-41ad3f98.js";import"./index-169ee69c.js";import"./floating-ui.react-dom-18fb7e86.js";import"./floating-ui.dom-88d30cbe.js";import"./UnstyledInput-f65502c7.js";import"./_getTag-6f8a2dc5.js";import"./_isIndex-7d0950bc.js";import"./isObjectLike-3306fff8.js";import"./tw-merge-1166cefb.js";const l={width:24,height:24,body:'<path fill="currentColor" d="M17.66 8L12 2.35L6.34 8A8.02 8.02 0 0 0 4 13.64c0 2 .78 4.11 2.34 5.67a7.99 7.99 0 0 0 11.32 0c1.56-1.56 2.34-3.67 2.34-5.67S19.22 9.56 17.66 8zM6 14c.01-2 .62-3.27 1.76-4.4L12 5.27l4.24 4.38C17.38 10.77 17.99 12 18 14H6z"/>'},y={title:"Input",component:e},t=()=>{const[o,r]=c.useState("Text");return p("div",{className:"flex flex-col gap-2",children:[a(e,{value:o,onChange:r,icon:l}),a(e,{value:o,onChange:r,icon:"W"})]})};var s,n,i;t.parameters={...t.parameters,docs:{...(s=t.parameters)==null?void 0:s.docs,source:{originalSource:`() => {
+  const [value, setValue] = useState("Text");
+  return <div className="flex flex-col gap-2">\r
+      <Input value={value} onChange={setValue} icon={opacityIcon} />\r
+      <Input value={value} onChange={setValue} icon="W" />\r
+    </div>;
+}`,...(i=(n=t.parameters)==null?void 0:n.docs)==null?void 0:i.source}}};const z=["Basic"];export{t as Basic,z as __namedExportsOrder,y as default};

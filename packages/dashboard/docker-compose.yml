@@ -9,7 +9,9 @@ services:
     volumes:
       - mysql:/var/lib/mysql
     environment:
-      MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: database
+      MYSQL_ROOT_PASSWORD: "UiMix123!"
+      MYSQL_DATABASE: "cxlpxljr_uimix"
+      MYSQL_USER: "cxlpxljr_uimix"
+      MYSQL_PASSWORD: "UiMix123!"
 volumes:
   mysql:

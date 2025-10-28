@@ -1,0 +1,1 @@
+import{i as e,a as t,e as f}from"./_isIndex-7d0950bc.js";import{i as n}from"./isObjectLike-3306fff8.js";function p(s,a,r){if(!n(r))return!1;var i=typeof a;return(i=="number"?e(r)&&t(a,r.length):i=="string"&&a in r)?f(r[a],s):!1}export{p as i};

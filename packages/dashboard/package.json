@@ -7,7 +7,7 @@
     "build:next": "next build",
     "dev": "run-z dev:docker-compose,dev:next",
     "dev:docker-compose": "docker-compose up",
-    "dev:next": "next dev",
+    "dev:next": "next dev --port 5173",
     "lint": "next lint",
     "prisma:db:push": "prisma db push",
     "prisma:generate": "prisma generate",

@@ -1,20 +1,10 @@
-import * as AriakitMenu from "@ariakit/react-core/menu/menu";
-import { MenuButton } from "@ariakit/react-core/menu/menu-button";
-import { MenuItem } from "@ariakit/react-core/menu/menu-item";
-import { useMenuButton } from "@ariakit/react-core/menu/menu-button";
-import { useMenuStore } from "@ariakit/react-core/menu/menu-store";
-import { MenuSeparator } from "@ariakit/react-core/menu/menu-separator";
-import type { MenuStoreProps } from "@ariakit/react-core/menu/menu-store";
+import * as AriakitMenu from "ariakit/menu";
 import checkIcon from "@iconify-icons/ic/check";
 import chevronRightIcon from "@iconify-icons/ic/chevron-right";
 import { MenuItemDef, MenuSubmenuDef } from "./MenuItemDef";
+import { PopoverState } from "ariakit/popover";
 import { Icon } from "@iconify/react";
 import { omit } from "lodash-es";
-
-interface MenuStore<T> {
-  state: T; // Add the 'state' property
-  // Other properties and methods...
-}
 
 const shortcutClassNames = `text-macaron-disabledText text-macaron-base ml-auto pl-4`;
 
@@ -24,30 +14,32 @@ const itemClassNames =
   "aria-disabled:text-macaron-disabledText h-6 outline-0 rounded [&[data-active-item]]:bg-macaron-active [&[data-active-item]]:text-macaron-activeText pr-4 pl-6 flex items-center";
 
 function Submenu({ def }: { def: MenuSubmenuDef }) {
-  const menu = useMenuStore({});
+  const menu = AriakitMenu.useMenuState({
+    shift: -4,
+  });
 
   return (
     <>
-      <MenuButton
-        // state={menu}
-        // as={MenuItem}
+      <AriakitMenu.MenuButton
+        state={menu}
+        as={AriakitMenu.MenuItem}
         className={itemClassNames}
       >
         {def.text}
-        <div className="pl-4 ml-auto">
+        <div className="ml-auto pl-4">
           <Icon icon={chevronRightIcon} />
         </div>
-      </MenuButton>
-      {((menu as any)?.mounted ?? false) && <Menu state={menu} defs={def.children} />}
+      </AriakitMenu.MenuButton>
+      {menu.mounted && <Menu state={menu} defs={def.children} />}
     </>
   );
 }
 
-function MenuItems({ def }: { def: MenuItemDef }) {
+function MenuItem({ def }: { def: MenuItemDef }) {
   switch (def.type) {
     case "command":
       return (
-        <MenuItem
+        <AriakitMenu.MenuItem
           className={itemClassNames}
           disabled={def.disabled}
           onClick={def.onClick?.bind(def)}
@@ -75,19 +67,19 @@ function MenuItems({ def }: { def: MenuItemDef }) {
               {def.shortcuts[0].toText()}
             </span>
           )}
-        </MenuItem>
+        </AriakitMenu.MenuItem>
       );
     case "submenu":
       return <Submenu def={def} />;
     case "label":
       return (
-        <div className="pl-6 pr-4 leading-4 text-macaron-disabledText text-2xs">
+        <div className="text-macaron-disabledText text-2xs pr-4 pl-6 leading-4">
           {def.text}
         </div>
       );
     case "separator":
       return (
-        <MenuSeparator className="my-1 border-macaron-uiBackground" />
+        <AriakitMenu.MenuSeparator className="my-1 border-macaron-uiBackground" />
       );
     default:
       return null;
@@ -98,31 +90,31 @@ export function Menu({
   state,
   defs,
 }: {
-  state: typeof useMenuStore; // extends MenuStore<infer S> ? S : never;
+  state: AriakitMenu.MenuState;
   defs: readonly MenuItemDef[];
 }) {
   return (
-    <Menu state={state} portal backdrop className={menuClassNames}>
+    <AriakitMenu.Menu state={state} portal backdrop className={menuClassNames}>
       {defs.map((def, i) => (
-        <MenuItems def={def} key={i} />
+        <MenuItem def={def} key={i} />
       ))}
-    </Menu>
+    </AriakitMenu.Menu>
   );
 }
 
 type UseMenuButtonResult = ReturnType<
-  typeof useMenuButton<"button">
+  typeof AriakitMenu.useMenuButton<"button">
 >;
 
 export const DropdownMenu: React.FC<{
   defs: readonly MenuItemDef[];
   trigger: (props: Omit<UseMenuButtonResult, "children">) => JSX.Element;
-  placement?: MenuStoreProps["placement"];
+  placement?: PopoverState["placement"];
 }> = ({ defs, trigger, placement }) => {
-  const state = useMenuStore({
+  const state = AriakitMenu.useMenuState({
     placement,
   });
-  const menuButtunProps = useMenuButton<"button">({ store: state });
+  const menuButtunProps = AriakitMenu.useMenuButton<"button">({ state });
 
   return (
     <>
